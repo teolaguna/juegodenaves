@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.obj
+juegodenaves.exe
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+bin/
